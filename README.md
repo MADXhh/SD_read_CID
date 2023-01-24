@@ -1,4 +1,4 @@
-# SD_read_CID
+# SD Card CID reader ( Arduino )
 Quick and dirty SD Card CID reader. 
 
 ## Hardware
